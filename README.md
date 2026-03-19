@@ -52,8 +52,18 @@ Os sensores da nave fornecem os seguintes dados antes da decolagem:
 
 ## Como executar
 
+### Opção 1 — Google Colab (recomendado)
+
+Acesse o notebook diretamente pelo link abaixo, sem necessidade de instalação:
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1977pTSRKERp00gfzjRc6VJE88kjisyaJ?usp=sharing)
+
+https://colab.research.google.com/drive/1977pTSRKERp00gfzjRc6VJE88kjisyaJ?usp=sharing
+
+### Opção 2 — Execução local
+
 1. Clone o repositório ou faça o download do arquivo `.ipynb`.
-2. Abra o arquivo `notebooks/relatorio_pre_decolagem_nave.ipynb` no [Google Colab](https://colab.research.google.com) ou no Jupyter Notebook local.
+2. Abra o arquivo `notebooks/relatorio_pre_decolagem_nave.ipynb` no Jupyter Notebook local.
 3. Execute as células em ordem sequencial (de cima para baixo).
 4. Observe os resultados da verificação operacional e da análise energética.
 
