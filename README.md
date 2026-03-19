@@ -16,10 +16,6 @@ Simular a avaliação operacional de uma nave fictícia antes da decolagem, util
 ├── README.md
 ├── notebooks/
 │   └── relatorio_pre_decolagem_nave.ipynb
-├── docs/
-│   └── relatorio_pre_decolagem_nave.pdf
-└── assets/
-    └── imagens_utilizadas/
 ```
 
 ## Conteúdo do notebook
